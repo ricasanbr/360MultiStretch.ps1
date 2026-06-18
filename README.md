@@ -5,3 +5,6 @@ Its a Powershell script to convert dual fisheye from Samsung gear360 2016 (v1) c
 well thats it so hope the best :)
 
 Jesus Bless you!
+
+Download link: 
+https://github.com/ricasanbr/360MultiStretch.ps1/releases/tag/v2.jun2026.360MultiStretch.original
